@@ -1,0 +1,58 @@
+
+0
+2167
+
+无错误样本
+processed 15106 tokens with 3700 phrases; found: 3575 phrases; correct: 2167.
+{'': Metrics(tp=2167, fp=1408, fn=1533, prec=0.6061538461538462, rec=0.5856756756756757, fscore=0.5957388316151203)}
+FINAL result:
+timeRange
+628
+620
+current_location
+14
+0
+country
+276
+237
+condition_description
+140
+11
+state
+296
+296
+geographic_poi
+152
+83
+city
+451
+417
+condition_temperature
+130
+0
+spatial_relation
+79
+79
+timeRange
+{'current_location': 6, 'geographic_poi': 1, 'state': 1}
+current_location
+{'geographic_poi': 14}
+country
+{'current_location': 7, 'state': 31, 'city': 1}
+condition_description
+{'timeRange': 94, 'geographic_poi': 13, 'city': 8, 'country': 3, 'spatial_relation': 5, 'current_location': 2, 'state': 4}
+state
+无错误样本
+geographic_poi
+{'city': 65, 'state': 1, 'country': 1, 'timeRange': 1, 'current_location': 1}
+city
+{'geographic_poi': 19, 'country': 2, 'state': 9, 'condition_description': 1, 'timeRange': 2, 'current_location': 1}
+condition_temperature
+{'timeRange': 88, 'spatial_relation': 21, 'condition_description': 9, 'country': 2, 'geographic_poi': 8, 'current_location': 1, 'city': 1}
+spatial_relation
+无错误样本
+processed 15106 tokens with 3700 phrases; found: 3575 phrases; correct: 1743.
+{'timeRange': Metrics(tp=620, fp=964, fn=235, prec=0.39141414141414144, rec=0.7251461988304093, fscore=0.5084050840508405), 'current_location': Metrics(tp=0, fp=28, fn=228, prec=0.0, rec=0.0, fscore=0), 'country': Metrics(tp=237, fp=136, fn=178, prec=0.6353887399463807, rec=0.5710843373493976, fscore=0.6015228426395939), 'condition_description': Metrics(tp=11, fp=27, fn=361, prec=0.2894736842105263, rec=0.02956989247311828, fscore=0.05365853658536586), 'state': Metrics(tp=296, fp=96, fn=96, prec=0.7551020408163265, rec=0.7551020408163265, fscore=0.7551020408163265), 'geographic_poi': Metrics(tp=83, fp=269, fn=142, prec=0.23579545454545456, rec=0.3688888888888889, fscore=0.2876949740034662), 'city': Metrics(tp=417, fp=168, fn=258, prec=0.7128205128205128, rec=0.6177777777777778, fscore=0.661904761904762), 'condition_temperature': Metrics(tp=0, fp=0, fn=368, prec=0, rec=0.0, fscore=0), 'spatial_relation': Metrics(tp=79, fp=144, fn=91, prec=0.3542600896860987, rec=0.4647058823529412, fscore=0.4020356234096692)}
+GetWeather
+Eval on test set.BIO Slot F1 Score: 59.5739, Final Slot F1 Score: 47.9175.
+------------------------------------------------------------
