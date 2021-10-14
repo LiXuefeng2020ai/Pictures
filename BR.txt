@@ -1,0 +1,60 @@
+processed 13620 tokens with 3363 phrases; found: 3402 phrases; correct: 1695.
+processed 13620 tokens with 3363 phrases; found: 3402 phrases; correct: 838.
+SearchScreeningEvent
+Eval on test set. Final Slot F1 Score: 24.7746.
+------------------------------------------------------------
+processed 15106 tokens with 3572 phrases; found: 3700 phrases; correct: 2052.
+processed 15106 tokens with 3572 phrases; found: 3700 phrases; correct: 1654.
+GetWeather
+Eval on test set. Final Slot F1 Score: 45.4895.
+------------------------------------------------------------
+processed 13639 tokens with 4390 phrases; found: 5880 phrases; correct: 1950.
+processed 13639 tokens with 4390 phrases; found: 5880 phrases; correct: 1241.
+RateBook
+Eval on test set. Final Slot F1 Score: 24.1675.
+------------------------------------------------------------
+processed 12164 tokens with 2264 phrases; found: 2727 phrases; correct: 1147.
+processed 12164 tokens with 2264 phrases; found: 2727 phrases; correct: 1107.
+SearchCreativeWork
+Eval on test set. Final Slot F1 Score: 44.3598.
+------------------------------------------------------------
+processed 13620 tokens with 3363 phrases; found: 3402 phrases; correct: 1695.
+processed 13620 tokens with 3363 phrases; found: 3402 phrases; correct: 838.
+SearchScreeningEvent
+Eval on test set. Final Slot F1 Score: 24.7746.
+------------------------------------------------------------
+processed 14228 tokens with 2786 phrases; found: 4186 phrases; correct: 1772.
+processed 14228 tokens with 2786 phrases; found: 4186 phrases; correct: 1461.
+AddToPlaylist
+Eval on test set.BIO Slot F1 Score: 50.8319, Final Slot F1 Score: 41.9105.
+------------------------------------------------------------
+processed 18702 tokens with 3973 phrases; found: 5089 phrases; correct: 2717.
+processed 18702 tokens with 3973 phrases; found: 5089 phrases; correct: 1563.
+BookRestaurant
+Eval on test set.BIO Slot F1 Score: 59.9647, Final Slot F1 Score: 34.4957.
+------------------------------------------------------------
+processed 15106 tokens with 3572 phrases; found: 3700 phrases; correct: 2052.
+processed 15106 tokens with 3572 phrases; found: 3700 phrases; correct: 1654.
+GetWeather
+Eval on test set.BIO Slot F1 Score: 56.4356, Final Slot F1 Score: 45.4895.
+------------------------------------------------------------
+processed 11269 tokens with 3485 phrases; found: 3480 phrases; correct: 2090.
+processed 11269 tokens with 3485 phrases; found: 3480 phrases; correct: 903.
+PlayMusic
+Eval on test set.BIO Slot F1 Score: 60.0144, Final Slot F1 Score: 25.9296.
+------------------------------------------------------------
+processed 13639 tokens with 4390 phrases; found: 5880 phrases; correct: 1950.
+processed 13639 tokens with 4390 phrases; found: 5880 phrases; correct: 1241.
+RateBook
+Eval on test set.BIO Slot F1 Score: 37.9747, Final Slot F1 Score: 24.1675.
+------------------------------------------------------------
+processed 12164 tokens with 2264 phrases; found: 2727 phrases; correct: 1147.
+processed 12164 tokens with 2264 phrases; found: 2727 phrases; correct: 1107.
+SearchCreativeWork
+Eval on test set.BIO Slot F1 Score: 45.9627, Final Slot F1 Score: 44.3598.
+------------------------------------------------------------
+processed 13620 tokens with 3363 phrases; found: 3402 phrases; correct: 1695.
+processed 13620 tokens with 3363 phrases; found: 3402 phrases; correct: 838.
+SearchScreeningEvent
+Eval on test set.BIO Slot F1 Score: 50.1109, Final Slot F1 Score: 24.7746.
+------------------------------------------------------------
